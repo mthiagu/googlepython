@@ -2,4 +2,4 @@
 
 #This scripts are for education purpose only
 
-# These python scripts are for students trying to learn exercises given in the Google Python course
+# These python scripts are my completed lab exercises.This can be referred for learning when you are trying to solve exercises in Course, Google IT Automation with Python.
